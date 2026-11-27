@@ -5,6 +5,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white)](https://portfolio-5yjx.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ian-cicarelli-b18200391/)
 
+![iancicarelli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iancicarelli&theme=ayu-mirage&hide_border=true)
+
+
 ## 🛠️ Tech Stack
 
 <!-- STACK:START -->
@@ -33,4 +36,9 @@ TypeScript     ██                          6.3%
 Vue            █                           3.9%
 JavaScript                                 1.3%
 ```
+
+![iancicarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iancicarelli&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+
 <!-- STATS:END -->
+
+![iancicarelli's Stats](https://github-readme-stats.vercel.app/api?username=iancicarelli&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
