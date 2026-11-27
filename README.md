@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 
 <!-- STACK:START -->
-_Updating..._
+`Docker` `PostgreSQL` `Vue` `Flutter` `Jest` `NestJS` `Tailwind CSS` `TypeORM` `Axum` `FastAPI` `Leptos` `MySQL` `Nuxt` `Phaser` `React` `Reflex` `SQLAlchemy` `SeaORM` `Spring Boot`
 <!-- STACK:END -->
 
 ## 🚀 Projects
@@ -23,5 +23,14 @@ _Updating..._
 ## 📊 Stats
 
 <!-- STATS:START -->
-_Updating..._
+**15** public repositories · **2** stars · **2** followers
+
+```text
+TeX            ███████████████            61.0%
+HTML           ████                       16.5%
+Python         ██                          8.0%
+TypeScript     ██                          6.3%
+Vue            █                           3.9%
+JavaScript                                 1.3%
+```
 <!-- STATS:END -->
