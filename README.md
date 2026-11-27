@@ -36,9 +36,6 @@ TypeScript     ██                          6.3%
 Vue            █                           3.9%
 JavaScript                                 1.3%
 ```
-
-![iancicarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iancicarelli&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
-
 <!-- STATS:END -->
 
 ![iancicarelli's Stats](https://github-readme-stats.vercel.app/api?username=iancicarelli&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
