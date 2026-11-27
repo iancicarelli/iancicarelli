@@ -1,4 +1,4 @@
-## Hi there, I'm Ian 👋
+## Hi there, I'm Ian 
 
 **Software Engineer | Master's Student in Informatics Engineering** at Universidad de La Frontera, Chile 🇨🇱
 
