@@ -29,10 +29,10 @@
 **15** public repositories · **2** stars · **2** followers
 
 ```text
-TeX            ███████████████            61.0%
+TeX            ███████████████            60.8%
 HTML           ████                       16.5%
-Python         ██                          8.0%
-TypeScript     ██                          6.3%
+Python         ██                          8.1%
+TypeScript     ██                          6.4%
 Vue            █                           3.9%
 JavaScript                                 1.3%
 ```
